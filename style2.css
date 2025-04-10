@@ -1,0 +1,22 @@
+body {
+    background-color: #FFEDFA;
+}
+Table {
+    width: 70%;
+    margin: 90px auto;
+    padding: 5px;
+    background-color: #E195AB;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-color:#E195AB;
+}
+td, th {
+    text-align: center;
+    font-family:cursive;
+    border-radius: 10px;
+    border-style: dotted;
+}
+h1 {
+    text-align: center;
+    font-family:cursive;
+}
